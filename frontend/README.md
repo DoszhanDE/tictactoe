@@ -1,3 +1,5 @@
+Reference, used as the base: https://github.com/guar47/react-tutorial-tic-tac-toe 
+
 # Tic Tac Toe game by React tutorial
 
 [Tutorial link](https://reactjs.org/tutorial/tutorial.html)
