@@ -10,6 +10,7 @@ cd backend
 
 Start frontend app:
 ```sh
+cd frontend
 yarn
 yarn start
 ```
